@@ -4,4 +4,4 @@
 
 - J'ai crée ce profil github pour rassembler les projets réalisés en classe.
 
-![StatsGithub](https://github-readme-stats.vercel.app/api?username=romarrr&show_icons=true&theme=radical)
+![StatsGithub](https://github-readme-stats.vercel.app/api?username=romarrr&show_icons=true&theme=highcontrast)

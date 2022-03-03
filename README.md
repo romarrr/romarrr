@@ -1,7 +1,5 @@
 - 👋 Salut, Je suis @romarrr.
 
-- Je suis en formation de développeur web et web mobile de mai 2021 à février 2022.
-
-- J'ai crée ce profil github pour rassembler les projets réalisés en classe.
+- Titulaire d'un certificat développeur web et web mobile (BAC+2).
 
 ![StatsGithub](https://github-readme-stats.vercel.app/api?username=romarrr&show_icons=true&theme=highcontrast)
